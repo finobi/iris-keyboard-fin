@@ -1,0 +1,5 @@
+# Build artifacts - never commit these, they're regenerated
+*.uf2
+*.hex
+*.bin
+*.elf
