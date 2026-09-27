@@ -1,6 +1,6 @@
 # Iris keymaps (Keebio Iris Rev8 + Rev4)
 
-My personal QMK keymaps for Keebio Iris keyboards. I have two identical sets, one is older Rev4 and one is newer Rev8. There also files to help flash using NixOS which is not offically supported by QMK. I've created this mostly as backup & documentation, if there is another person in the world who is using NixOS and Keebio Iris keyboards, feel free to use.
+My personal QMK keymaps for Keebio Iris keyboards. I have two identical sets, one is older Rev4 and one is newer Rev8. There also files to help flash using NixOS which is not offically supported by QMK. I've created this mostly as backup & documentation, if there is another person in the world who is using NixOS, Keebio Iris keyboards and finnish layout, feel free to use.
 
 | Board | MCU | Bootloader | Firmware file | Flashing |
 |-------|-----|------------|---------------|----------|
