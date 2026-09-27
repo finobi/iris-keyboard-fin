@@ -58,7 +58,8 @@ cp ~/qmk_firmware/keebio_iris_rev8_keebio_iris_rev8_layout_tomi.uf2 /run/media/$
 
 **Rev4 (AVR / DFU):**
 In NixOS config add udev rules:
-`services.udev.packages = [ pkgs.qmk-udev-rules ];`
+
+```services.udev.packages = [ pkgs.qmk-udev-rules ];```
 
 ```bash
 cd ~/qmk_firmware
